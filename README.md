@@ -1,2 +1,2 @@
 # vacationplanner
-Excel vacation planner based on a dynamic calendar
+Excel Urlaubsplaner auf Basis eines dynamischen Kalenders
